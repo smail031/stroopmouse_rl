@@ -6,6 +6,7 @@ __pycache__/
 *.swp
 .DS_Store
 Thumbs.db
+.Rhistory
 
 # Exclude Jupyter Notebook-specific entries
 .ipynb_checkpoints/
