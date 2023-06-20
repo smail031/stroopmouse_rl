@@ -1,0 +1,11 @@
+# Exclude __pycache__ directories
+__pycache__/
+
+# Exclude backup and auto-save files
+*~
+*.swp
+.DS_Store
+Thumbs.db
+
+# Exclude Jupyter Notebook-specific entries
+.ipynb_checkpoints/
